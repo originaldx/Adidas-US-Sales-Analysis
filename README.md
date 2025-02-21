@@ -51,7 +51,8 @@ The Power BI dashboard includes the following visualizations:
 - Tables and matrices for detailed performance metrics.
 
 ##   Screenshot
-![image]()
+![image](https://github.com/originaldx/Adidas-US-Sales-Analysis/blob/main/adidas%20github.png)
+Fig1
 
 
 ## Conclusion
