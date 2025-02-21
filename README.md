@@ -37,7 +37,7 @@ The dataset used in this analysis contains Adidas US sales data, including infor
    - Identified trends in customer preferences for specific sales channels.
 
 4. **Time-Based Trends**:
-   - Analyzed monthly, quarterly, and yearly sales trends.
+   - Analyzed monthly and yearly sales trends.
    - Identified seasonal peaks and troughs in sales.
 
 5. **Profitability Analysis**:
@@ -48,7 +48,8 @@ The dataset used in this analysis contains Adidas US sales data, including infor
 The Power BI dashboard includes the following visualizations:
 - line charts for sales trends over time.
 - Pie charts for product category distribution.
-- Tables and matrices for detailed performance metrics.
+- Top Retailer in Adidas US sales.
+- Proportion of Total sales by sales method.
 
 ##   Screenshot
 ![image](https://github.com/originaldx/Adidas-US-Sales-Analysis/blob/main/adidas%20github.png)
