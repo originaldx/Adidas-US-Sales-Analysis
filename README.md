@@ -51,7 +51,8 @@ The Power BI dashboard includes the following visualizations:
 - Tables and matrices for detailed performance metrics.
 
 ##   Screenshot
-![image](adidas github.png)
+![image]()
+
 
 ## Conclusion
 This analysis provides valuable insights into Adidas US sales performance, highlighting key trends and opportunities for growth. The interactive Power BI dashboard allows stakeholders to explore the data dynamically and make informed decisions.
